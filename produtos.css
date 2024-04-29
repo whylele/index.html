@@ -64,3 +64,29 @@ nav a:hover {
     font-weight: bold;
     margin-top: 10px;
 }
+footer{
+    text-aling: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+}
+.copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
+main{
+    width: 240px;
+    margin: 0 auto;
+}
+form{
+    margin: 40px 0;
+}
+form label{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10xp;
+}
+form imput {
+    display: block;
+    margin: 0 0 20xp;
+    padding:10
